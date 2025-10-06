@@ -1,5 +1,7 @@
 # Umamusume Auto Train
 
+Modified
+
 Like the title says, this is a simple auto training for Umamusume.
 
 This project is inspired by [shiokaze/UmamusumeAutoTrainer](https://github.com/shiokaze/UmamusumeAutoTrainer)
